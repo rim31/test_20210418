@@ -68,7 +68,7 @@ clicking on a movie : go to details of the movie
 
 ![](./public/f.png)
 ![](./public/e.png)
-![](./public/a.png)
+![](./public/d.png)
 
 
 # To improve
