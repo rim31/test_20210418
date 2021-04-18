@@ -17,6 +17,13 @@ Movie example
 
 In the project directory, you can run:
 
+```
+git clone ..
+cd ...
+yarn install
+yarn start
+```
+
 ### `yarn start`
 
 Runs the app in the development mode.\
